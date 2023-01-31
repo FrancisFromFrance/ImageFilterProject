@@ -8,7 +8,7 @@ Working on a project that involved using a convolution kernel, multidimensional 
 
 ### Running the Program
     1. Download and compile the repository
-    2. Compile and run the KernelRunner.java file
+    2. Run the KernelRunner.java file
     3. Users must navigate using a switch case
     4. Select an image using the file chooser or choose the default. Press ‘Y’ to confirm your choice.
     5. Choose a kernel from the switch case
