@@ -16,7 +16,6 @@ This program allows the user to input an image and apply a convolution kernel to
     6. Use the ‘Save Image’ case to select the name for the filtered image.
 
 ### Supported Kernels
-The following kernels are currently supported:
     1. Identity
     2. Edge Detection 1
     3. Edge Detection 2
