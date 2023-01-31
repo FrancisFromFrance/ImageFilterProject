@@ -1,8 +1,7 @@
 # ImageFilterProject
-A project for applying an image to a image using a convolution kernel
+Working on a project that involved using a convolution kernel and a scanner to generate an image filter helped me to solidify my understanding of Java programming. Through the process I was able to apply my knowledge of Java concepts such as classes, objects, arrays, and control structures in a real-world scenario. I also gained practical experience in using Java libraries such as ImageIO and Scanner, which enhanced my ability to work with APIs and integrate different components in a project. This project provided me with hands-on experience in developing and solving complex problems, which helped me to deepen my understanding of Java programming and the software development process.
 
-### Overview
-This program allows the user to input an image and apply a convolution kernel to apply an effect on the image.
+
 
 ### Prerequisites
     • Java 8 or higher
